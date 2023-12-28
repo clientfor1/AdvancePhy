@@ -1,0 +1,6 @@
+---                                                                           
+defaults:
+    domain: lab.test
+
+lab:
+    bogus: value
